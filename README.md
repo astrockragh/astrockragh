@@ -7,9 +7,9 @@
 - 📫 My [personal website](https://astrockragh.github.io/) contains more comprehensive information about me and is usually the most up to date.
 
 <!-- [![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrockragh)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Christian's GitHub stats](https://github-readme-stats-astrockraghs.vercel.app/api?username=astrockragh&show_icons=true&theme=dark&count_private=true)](https://github.com/astrockragh/github-readme-stats)
+[![Christian's GitHub stats](https://github-readme-stats-xi-ebon-37.vercel.app/api?username=astrockragh&show_icons=true&theme=dark&count_private=true)](https://github.com/astrockragh/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-astrockraghs.vercel.app/api/top-langs/?username=astrockragh&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/astrockragh/github-readme-stats)
+[![Top Langs](https://github-readme-stats-xi-ebon-37.vercel.app/api/top-langs/?username=astrockragh&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/astrockragh/github-readme-stats)
 
 As a little fun fact, I have scattered Easter eggs throughout my first-author papers from the last ~3 years, and if you can figure out the common theme, I'll be happy to buy you a beer or similar beverage if we meet IRL :wink:
 
