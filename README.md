@@ -9,8 +9,8 @@
 <!-- [![Christian's GitHub stats](https://github-readme-stats-xi-ebon-37.vercel.app/api?username=astrockragh&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&include_all_commits=true&cache_seconds=30&card_width=500px)](https://github.com/astrockragh/github-readme-stats)
 [![Top Langs](https://github-readme-stats-xi-ebon-37.vercel.app/api/top-langs/?username=astrockragh&layout=compact&theme=dark&hide=css,bibtex,roff,perl,bst,html,tex,jupyter%20notebook&cache_seconds=30&card_width=500px)](https://github.com/astrockragh/github-readme-stats) -->
 
-<table><tr>
-<td><a href="https://github.com/astrockragh/github-readme-stats"><img src="https://github-readme-stats-xi-ebon-37.vercel.app/api?username=astrockragh&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&include_all_commits=true&cache_seconds=30" /></a></td>
+<table border="0" cellspacing="0"><tr>
+<td><a href="https://github.com/astrockragh/github-readme-stats"><img src="https://github-readme-stats-xi-ebon-37.vercel.app/api?username=astrockragh&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&include_all_commits=true&cache_seconds=30&line_height=30" /></a></td>
 <td><a href="https://github.com/astrockragh/github-readme-stats"><img src="https://github-readme-stats-xi-ebon-37.vercel.app/api/top-langs/?username=astrockragh&layout=compact&theme=dark&hide=css,bibtex,roff,perl,bst,html,tex,jupyter%20notebook&cache_seconds=30" /></a></td>
 </tr></table>
 
