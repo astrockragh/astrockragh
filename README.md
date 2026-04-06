@@ -6,7 +6,7 @@
 - 📙 Here is a copy of my [CV](https://astrockragh.github.io/uploads/CV_Mar2026.pdf).
 - 📫 My [personal website](https://astrockragh.github.io/) contains more comprehensive information about me and is usually the most up to date.
 
-[![Christian's GitHub stats](https://github-readme-stats-xi-ebon-37.vercel.app/api?username=astrockragh&show_icons=true&theme=dark&count_private=true)](https://github.com/astrockragh/github-readme-stats)
+[![Christian's GitHub stats](https://github-readme-stats-xi-ebon-37.vercel.app/api?username=astrockragh&show_icons=true&theme=dark&count_private=true&hide=issues,contribs&include_all_commits=true)](https://github.com/astrockragh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-xi-ebon-37.vercel.app/api/top-langs/?username=astrockragh&layout=compact&theme=dark&hide=css,bibtex,roff,perl,bst,html,tex,jupyter%20notebook&cache_seconds=30)](https://github.com/astrockragh/github-readme-stats)
 
