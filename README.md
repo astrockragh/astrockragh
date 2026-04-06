@@ -9,6 +9,8 @@
 <!-- [![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrockragh)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Christian's GitHub stats](https://github-readme-stats-astrockragh.vercel.app/api?username=astrockragh&show_icons=true&theme=dark&count_private=true)](https://github.com/astrockragh)
 
+[![Top Langs](https://github-readme-stats-astrockragh.vercel.app/api/top-langs/?username=astrockragh&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/astrockragh)
+
 As a little fun fact, I have scattered Easter eggs throughout my first-author papers from the last ~3 years, and if you can figure out the common theme, I'll be happy to buy you a beer or similar beverage if we meet IRL :wink:
 
 <!--
